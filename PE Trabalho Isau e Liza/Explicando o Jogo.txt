@@ -24,3 +24,13 @@ O jogador com a carta mais alta ganha a guerra e recebe dois pontos.
 O jogo continua até que não sobrem mais cartas na mão. 
 
 Ao fim do jogo um placar e mostrado e o jogador com mais pontos ganha. 
+
+
+Sobre as cartas:
+
+O peso das casas foram definidas da seguinte forma 
+o As vale mais 
+Depois vem o Rei
+A rainha abaixo do Rei
+O valete Abaixo da Rainha
+e as demais cartas em ordem decrescente , sendo o 2 o menor das cartas numeradas e o 10 a maior 
