@@ -28,9 +28,9 @@ Ao fim do jogo um placar e mostrado e o jogador com mais pontos ganha.
 
 Sobre as cartas:
 
-O peso das casas foram definidas da seguinte forma 
+O peso das cartas foram definidas da seguinte forma 
 o As vale mais 
 Depois vem o Rei
-A rainha abaixo do Rei
-O valete Abaixo da Rainha
+A Rainha abaixo do Rei
+O Valete Abaixo da Rainha
 e as demais cartas em ordem decrescente , sendo o 2 o menor das cartas numeradas e o 10 a maior 
