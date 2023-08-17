@@ -17,10 +17,10 @@ Ao fim de cada rodada as cartas na mão vão diminuindo.
 
 Se os jogadores jogarem cartas com o mesmo valor, ocorre uma guerra.
 
-Durante uma guerra, cada jogador jogador joga mais uma rodada.
+Durante uma guerra, cada jogador  joga mais uma rodada.
 
 O jogador com a carta mais alta ganha a guerra e recebe dois pontos.
 
 O jogo continua até que não sobrem mais cartas na mão. 
 
-Ao fim do jogo um placar e mostrados, o jogador com mais pontos ganha. 
+Ao fim do jogo um placar e mostrado e o jogador com mais pontos ganha. 
