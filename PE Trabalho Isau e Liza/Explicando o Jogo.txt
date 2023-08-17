@@ -7,7 +7,7 @@ O jogo é jogado entre dois jogadores.
 
 Cada jogador começa com um numero X cartas que e definida no inicio do codigo.
 
-Os jogadores escolhem uma cara em sua mão e jogam na "mesa".
+Os jogadores escolhem uma carta em sua mão e jogam na "mesa".
 
 O jogador com a carta mais alta ganha a rodada.
 
