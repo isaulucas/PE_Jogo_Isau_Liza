@@ -1,0 +1,26 @@
+O jogo se chama GUERRA !
+
+
+Em nossa versão desse jogo as regras se dão da seguinte forma: 
+
+O jogo é jogado entre dois jogadores.
+
+Cada jogador começa com um numero X cartas que e definida no inicio do codigo.
+
+Os jogadores escolhem uma cara em sua mão e jogam na "mesa".
+
+O jogador com a carta mais alta ganha a rodada.
+
+O vencedor da rodada recebe um ponto pela rodada ganha.
+
+Ao fim de cada rodada as cartas na mão vão diminuindo.
+
+Se os jogadores jogarem cartas com o mesmo valor, ocorre uma guerra.
+
+Durante uma guerra, cada jogador jogador joga mais uma rodada.
+
+O jogador com a carta mais alta ganha a guerra e recebe dois pontos.
+
+O jogo continua até que não sobrem mais cartas na mão. 
+
+Ao fim do jogo um placar e mostrados, o jogador com mais pontos ganha. 

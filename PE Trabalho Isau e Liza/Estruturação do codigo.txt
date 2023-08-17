@@ -1,0 +1,32 @@
+main() é o método principal do programa. Ele inicia o jogo, processa as jogadas dos jogadores e determina o vencedor.
+
+inicializarJogo() inicializa o jogo criando um baralho de cartas e distribuindo-as entre os jogadores.
+
+processarJogadas() processa as jogadas dos jogadores. Ele recebe a entrada do usuário e compara as cartas dos jogadores.
+
+atualizarPlacar() atualiza o placar após comparar as cartas jogadas.
+
+realizarGuerra() implementa a lógica da Guerra. Ele faz com que os jogadores joguem uma carta adicional e determina o vencedor da Guerra.
+
+jogoTerminou() verifica se o jogo terminou.
+
+determinarVencedor() determina o vencedor do jogo.
+
+criarBaralho() cria um novo baralho de cartas.
+
+mostrarCartas() mostra as cartas na mão do jogador.
+
+mostrarPlacar() mostra o placar atual.
+
+
+
+
+O código usa as seguintes estruturas de dados:
+
+List<Carta> é uma lista de cartas. É usado para armazenar o baralho de cartas e as cartas na mão dos jogadores. A lista pode ser acessada em qualquer ordem, e as cartas são adicionadas e removidas na ordem em que são jogadas.
+
+Carta[] é um array de cartas. É usado para armazenar as cartas jogadas pelos jogadores durante a Guerra. As cartas são adicionadas e removidas do início do array. O array se comporta como uma fila.
+
+int[] é um array de inteiros. É usado para armazenar o placar dos jogadores. Os inteiros são adicionados e removidos do topo do array. O array se comporta como uma pilha.
+
+Portanto, List se comporta como uma lista, Carta[] se comporta como uma fila e int[] se comporta como uma pilha.
